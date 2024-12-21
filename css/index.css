@@ -6,6 +6,9 @@ body {
   margin: 0px auto;
   padding: 30px;
   background: linear-gradient(to top right, lightgreen, lightblue);
+  background-size: cover;
+  background-origin: border-box;
+  background-attachment: fixed;
   text-align: center;
 }
 
